@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExternalLibrary", "ExternalLibrary\ExternalLibrary.csproj", "{B9064047-928F-418F-8B16-0FEAB5D91051}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudService", "CloudService\CloudService.csproj", "{8BDC766D-6082-4708-B80F-93E64884578A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9064047-928F-418F-8B16-0FEAB5D91051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9064047-928F-418F-8B16-0FEAB5D91051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9064047-928F-418F-8B16-0FEAB5D91051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9064047-928F-418F-8B16-0FEAB5D91051}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BDC766D-6082-4708-B80F-93E64884578A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BDC766D-6082-4708-B80F-93E64884578A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BDC766D-6082-4708-B80F-93E64884578A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BDC766D-6082-4708-B80F-93E64884578A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2D5F208-18D6-41AC-AC49-02F34AF5FD44}
+	EndGlobalSection
+EndGlobal
